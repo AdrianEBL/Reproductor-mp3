@@ -1,5 +1,5 @@
 /*
-Adrian Eduardo Barrios Lopez 
+Adrian Barrios
 13550350
 Graficación
 Proyecto: Reproductor de mp3
