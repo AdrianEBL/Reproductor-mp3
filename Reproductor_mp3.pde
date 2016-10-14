@@ -4,7 +4,7 @@ Adrian Eduardo Barrios Lopez
 Graficación
 Proyecto: Reproductor de mp3
 25/Mayo/2016
-master code */
+Final code */
 
 import controlP5.*;
 import ddf.minim.*;
